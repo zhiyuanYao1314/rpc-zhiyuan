@@ -1,2 +1,0 @@
-http=com.luban.protocol.http.HttpProtocol
-dubbo=com.luban.protocol.dubbo.DubboProtocol

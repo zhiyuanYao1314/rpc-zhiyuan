@@ -1,0 +1,2 @@
+http=com.zhiyuan.protocol.http.HttpProtocol
+dubbo=com.zhiyuan.protocol.dubbo.DubboProtocol
